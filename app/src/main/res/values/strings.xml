@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Word Coach</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="word_coach">Word Coach</string>
+    <string name="play">Play</string>
+    <string name="yourScore">Your Score  </string>
+    <string name="time">Time: %1$d</string>
+    <string name="or">OR</string>
+    <string name="retry">Retry</string>
+    <string name="calculating_the_result">Calculating the result%1$s</string>
+    <string name="score">Your Score: %1$d</string>
+</resources>
